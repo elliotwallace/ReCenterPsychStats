@@ -350,7 +350,7 @@ A one-way analysis of covariance (ANCOVA) was conducted. The independent variabl
 
 We are ready to conduct the omnibus ANOVA.
 
-![Image of the ANCOVA decision tree, showing our current place in the workflow.](images/ANCOVA/wf_ANCOVA_omnibus.jpg)
+![Image of the ANCOVA decision tree, showing our current place in the workflow.](images/ANCOVA/wf_ANCOVA_omnibus.jpg) *Typo here: There is a missing parentheses before "+ effect size)"
 
 *Order of variable entry* matters in ANCOVA. Thinking of the *controlling for* language associate with covariates, we want to remove the effect of the covariate before we run the one-way ANOVA. With this ANCOVA we are asking the question, "Does the condition (Friends or Little Mosque) contribute to more positive attitudes toward Arabs, when controlling for the pre-test score.
 
@@ -725,7 +725,7 @@ Using the lecture and workflow (chart) as a guide, please work through all the s
 
 ### Problem #2:  Conduct a one-way ANOVA with the DV and covariate at post2.
 
-The Murrar et al. [-@murrar_entertainment-education_2018]article has three waves:  baseline, post1, post2.  In this lesson, I focused on the post1 waves. Rerun this analysis using the post2 wave data.
+The Murrar et al. [-@murrar_entertainment-education_2018] article has three waves:  baseline, post1, post2.  In this lesson, I focused on the post1 waves. Rerun this analysis using the post2 wave data.
 
 |Assignment Component                    | Points Possible   | Points Earned|
 |:-------------------------------------- |:----------------: |:------------:|
